@@ -4,5 +4,5 @@ SEEDR THIRD PARTY MODULES NODE AND EXPRESS JS- models and index.js
 
 DEPLOYED REPOSITORY - 
 
-SEEDR - <link>  https://github.com/harikiran5184/seedrStreamApis  </link> <br />
-FLASK API's - <link>  https://github.com/harikiran5184/movierulzapi  </link>
+SEEDR - <a  href="https://github.com/harikiran5184/seedrStreamApis" > Refer here </a> <br />
+FLASK API's - <a  href="https://github.com/harikiran5184/movierulzapi"> Refer here </a>
